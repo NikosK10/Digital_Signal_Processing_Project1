@@ -1,4 +1,4 @@
-# DSP-Telephone-Touch-Tones
+# Digital_Signal_Processing_Project1
 The first part of the project is about production and Fourie analysis of telephone touch tones in Python. Specifically, we produce the tones with a given formula with specific frequencies that are adjusted in most phones nowadays. Afterwards, we continue with some Fourie Analysis and a processing on a tone sequence we created. 
 
 The second part is relevant with Short Time Fourie Analysis applied on given music/voice signals and the graphical representation of their features.
