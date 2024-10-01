@@ -1,4 +1,4 @@
-# Digital_Signal_Processing_Project1
+# Digital Signal Processing Project 1
 The first part of the project is about generation and Fourie analysis of telephone touch tones in Python. Specifically, we produce the tones using a formula based on specific frequencies that are commonly used in modern phones.. Afterwards, we continue with some Fourie Analysis and a processing on a tone sequence we created. 
 
 The second part is relevant with Short-Time Fourier Analysis (STFT) applied on given music/voice signals and the graphical representation of their features.
